@@ -2,7 +2,7 @@
 
 A simple and responsive password generator built with HTML, CSS, and JavaScript.
 
-# Following are eatures
+# Following are features
 
 - Set custom password length
 - Include:
