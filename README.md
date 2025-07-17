@@ -1,8 +1,8 @@
-# 🔐 Web-Based Password Generator
+# Web-Based Password Generator App
 
 A simple and responsive password generator built with HTML, CSS, and JavaScript.
 
-## ✅ Features
+# Following are eatures
 
 - Set custom password length
 - Include:
@@ -12,16 +12,8 @@ A simple and responsive password generator built with HTML, CSS, and JavaScript.
   - Symbols
 - Copy password with one click
 
-## 🚀 How to Use
+# How to Use
 
 1. Clone or download the repository.
 2. Open `index.html` in your browser.
 3. Choose options and click "Generate Password".
-
-## 🖼 Preview
-
-![screenshot](https://via.placeholder.com/600x300?text=Password+Generator+UI)
-
-## 📄 License
-
-MIT
